@@ -3,9 +3,8 @@
 My name is Andrew Benbow, GitHub user OulipianSummer
 
 ### Bio
-- 🔭 I’m currently building web applications and experimenting with a bunch of different frameworks!
-- 🌱 I’m currently learning even more about Django!
-
+- I am currently working with the Drupal CMS, and Wordpress CMS to build custom plugins, modules, themes, and web sites
+- I am also currently working in the LAMP Stack more generally
 
 
 ### Featured Repos
