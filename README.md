@@ -4,7 +4,7 @@ My name is Andrew Benbow, GitHub user OulipianSummer
 
 ### Bio
 - I am currently working with the Drupal CMS, butiding custom software solutions with [Bitcookie](https://bitcookie.com/)
-- I enjoy building chess games and other apps centered around the knights tour proglem
+- I enjoy building chess games and other apps centered around the knights tour problem
 - I like to work with React, Ionic, and Typescript to create interessting and responsive frontend applications
 - Enthusiast of the [Oulipo](https://en.wikipedia.org/wiki/Oulipo) literature movement
  
