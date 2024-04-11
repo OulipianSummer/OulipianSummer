@@ -12,6 +12,21 @@
 - I enjoy building chess games and other apps centered around the knights tour problem.
 - I work with React, Ionic, and Typescript to create interessting and responsive frontend applications.
 - Enthusiast of the [Oulipo](https://en.wikipedia.org/wiki/Oulipo) literature movement
+
+### Tech Stack
+<p>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-ef6327.svg?&style=flat-square&logo=html5&logoColor=white"/>
+<img alt="CSS" src="https://img.shields.io/badge/CSS-0070ba.svg?&style=flat-square&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1d.svg?&style=flat-square&logo=javascript&logoColor=black"/>
+<img alt="GNU Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/PHP-6d81b6.svg?&style=flat-square&logo=php&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3077c5.svg?&style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3872a1.svg?&style=flat-square&logo=python&logoColor=white" />
+<img alt="Drupal" src="https://img.shields.io/badge/Drupal-0274bb.svg?&style=flat-square&logo=drupal&logoColor=white" />
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-464646.svg?&style=flat-square&logo=wordpress&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-00d8fd.svg?&style=flat-square&logo=react&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/Sass-cc659a.svg?&style=flat-square&logo=sass&logoColor=white" />
+</p>
  
 
 ### Featured Repos
