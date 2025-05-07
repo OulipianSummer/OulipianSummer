@@ -27,6 +27,7 @@
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-464646.svg?&style=flat-square&logo=wordpress&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-00d8fd.svg?&style=flat-square&logo=react&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/Sass-cc659a.svg?&style=flat-square&logo=sass&logoColor=white" />
+<img alt="NixOS" src="https://img.shields.io/badge/NixOS-4d70b7.svg?&style=flat-square&logo=nixos&logoColor=white" />
 </p>
  
 
