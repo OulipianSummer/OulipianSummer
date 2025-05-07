@@ -3,7 +3,7 @@
 <h3 align="center">  Web Developer | Exerpimental Literautre Enthusiast | Curry Maker 🍛 </h3> <br>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/andrew-m-benbow/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Andrew_Benbow-blue?style=flor-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-mb-benbow/"></a>
-<a href="mailto:amb@disroot.org"><img alt="Email" src="https://img.shields.io/badge/Andrew Benbow-0078D4?style=for-the-badge&logo=gmail&style=flat-square&logoColor=white" /></a>
+<a href="mailto:abmurrow@duck.com"><img alt="Email" src="https://img.shields.io/badge/Andrew Benbow-0078D4?style=for-the-badge&logo=gmail&style=flat-square&logoColor=white" /></a>
 </p>
 
 ### Bio
