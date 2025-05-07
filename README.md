@@ -28,6 +28,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-00d8fd.svg?&style=flat-square&logo=react&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/Sass-cc659a.svg?&style=flat-square&logo=sass&logoColor=white" />
 <img alt="NixOS" src="https://img.shields.io/badge/NixOS-4d70b7.svg?&style=flat-square&logo=nixos&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-000000.svg?&style=flat-square&logo=linux&logoColor=white" />
 </p>
  
 
