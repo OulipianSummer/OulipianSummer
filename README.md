@@ -7,11 +7,14 @@
 
 ### Bio
 - I am a Full Stack web developer based out of Asheville North Carolina.
-- Experienced with designing and mainting complex enterprise grade web software for both priviate and federal clients.
-- I am currently working with the Drupal CMS, Django, WordPress, and Wagtail.
-- I enjoy building chess games and other apps centered around the knights tour problem.
-- I work with React, Ionic, and Typescript to create interessting and responsive frontend applications.
-- Enthusiast of the [Oulipo](https://en.wikipedia.org/wiki/Oulipo) literature movement
+- Experienced with designing and maintaining complex enterprise grade web software for both private and federal clients.
+- I am currently working with Drupal CMS, Django, WordPress, and Wagtail.
+- I enjoy building chess games and other apps centered around the knight's tour problem.
+- I work with React, Ionic, and Typescript to create interesting and responsive frontend applications.
+- Co-maintainer of Drupal for NixOS and [nixpkgs](https://github.com/NixOS/nixpkgs).
+- Module maker and maintainer for Drupal.
+- Enthusiast of the [Oulipo](https://en.wikipedia.org/wiki/Oulipo) literature movement.
+- Certified Scrum Master.
 
 ### Tech Stack
 <p>
@@ -31,11 +34,14 @@
 </p>
  
 
-### Featured Repos
+### Featured Projects
 
-- :star: [Rudrata](https://oulipiansummer.github.io/rudrata/), a React based puzzle game that challenges users to solve one of the oldest and most challenging chess puzzles in history: the infamous knight's tour. Currently deployed using GitHub Pages
-- :star: [Calculator](https://github.com/OulipianSummer/react-calculator), a React powered calculator that can do simple mathematic calculations (much like an old school pocket calculator). Accepts keyboard inputs and can do serial calculations.
-- :star: [Drum Machine](https://github.com/OulipianSummer/drum-machine), a React powered Korg-ER1 drum machine that accepts both mouse and keyboard input.
+- :star: [Node Swapper](https://www.drupal.org/project/node_swapper), a Drupal module used for replacing one node and all of its aliases and redirects with another.
+- :star: [PartyTown Drupal](https://www.drupal.org/project/partytown_drupal), a Drupal module that integrates [PartyTown](https://github.com/QwikDev/partytown/) with the classic PHP-powered CMS.
+- :star: [Drupal for NixOS](https://github.com/NixOS/nixpkgs/blob/master/nixos/modules/services/web-apps/drupal.nix), a service module that allows Drupal to be run declaratively on NixOS.
+- :star: [Rudrata](https://oulipiansummer.github.io/rudrata/), a React-based puzzle game that challenges users to solve one of the oldest chess puzzles in history: the infamous knight's tour.
+- :star: [Calculator](https://github.com/OulipianSummer/react-calculator), a React-powered calculator that can do simple mathematic calculations (much like an old-school pocket calculator). Accepts keyboard inputs and can do serial calculations.
+- :star: [Drum Machine](https://github.com/OulipianSummer/drum-machine), a React-powered Korg-ER1 drum machine that accepts both mouse and keyboard input.
 
 
 <p align="center">
