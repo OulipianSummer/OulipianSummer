@@ -11,7 +11,7 @@
 - I am currently working with Drupal CMS, Django, WordPress, and Wagtail.
 - I enjoy building chess games and other apps centered around the knight's tour problem.
 - I work with React, Ionic, and Typescript to create interesting and responsive frontend applications.
-- Co-maintainer of Drupal for NixOS and [nixpkgs](https://github.com/NixOS/nixpkgs).
+- Maintainer of Drupal for NixOS and [nixpkgs](https://github.com/NixOS/nixpkgs).
 - Module maker and maintainer for Drupal.
 - Enthusiast of the [Oulipo](https://en.wikipedia.org/wiki/Oulipo) literature movement.
 - Certified Scrum Master.
