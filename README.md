@@ -6,7 +6,7 @@
 </p>
 
 ### Bio
-- I am a Full Stack web developer based out of Asheville North Carolina.
+- I am a Full Stack web developer based out of Wellington, New Zealand.
 - Experienced with designing and maintaining complex enterprise grade web software for both private and federal clients.
 - I am currently working with Drupal CMS, Django, WordPress, and Wagtail.
 - I enjoy building chess games and other apps centered around the knight's tour problem.
